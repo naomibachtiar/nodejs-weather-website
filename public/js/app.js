@@ -1,5 +1,3 @@
-console.log("Client side javascript")
-
 // Making http request from client side javascript using Fetch API (browser-based API)
 
 //Selecting html elements
